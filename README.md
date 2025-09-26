@@ -11,7 +11,7 @@ Key features include:
 - **Recipe details** with ingredients, instructions, and optional video tutorials.  
 
 <p align="center">
-<img src="homepage.png" width="900">
+<img src="Landing_page.png" width="900">
 </p>
 
 ---
@@ -72,11 +72,11 @@ npm install
    ```bash
    The app will be available at http://localhost:5173
    ```
-Landing Page
-<p align="center"> <img src="screenshots/landing.png" width="700"> </p>
 Ingredient Search
-<p align="center"> <img src="screenshots/ingredient_search.png" width="700"> </p>
+<p align="center"> <img src="Ingredient Search.png" width="700"> </p>
 Mood-based Recipes
-<p align="center"> <img src="screenshots/mood.png" width="700"> </p>
+<p align="center"> <img src="Mood-based Recipes.png" width="700"> </p>
 Recipe Details
-<p align="center"> <img src="screenshots/recipe_details.png" width="700"> </p>
+<p align="center"> <img src="Recipe Details.png" width="700"> </p>
+Suprise Me page
+<p align="center"> <img src="Random_recipe.png" width="700"> </p>
