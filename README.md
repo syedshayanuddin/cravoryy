@@ -11,7 +11,7 @@ Key features include:
 - **Recipe details** with ingredients, instructions, and optional video tutorials.  
 
 <p align="center">
-<img src="Landing_page.png" width="900">
+<img src="Landing_Page.png" width="900">
 </p>
 
 ---
